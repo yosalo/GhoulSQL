@@ -1,0 +1,11 @@
+*.dll
+*.pdb
+.suo
+bin/
+obj/
+logs/
+packages/
+.vs/
+.DS_Store
+.vscode/
+
